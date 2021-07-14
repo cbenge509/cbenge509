@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 <p>I have over 20 years of experience providing hands-on consultation and leadership in the Healthcare, Defense, and Federal Civilian sectors. I am passionate about data science, machine learning, cloud architecture, and database solution building - with a proven track record leading and delivering successful engagements for some of the largest and most complex data problem areas.</p>
 
 <p>I am based in central Indiana, possess an active Top Secret security clearance, and have a borderline-obsession with <a href="https://www.kaggle.com/" target="_blank" style="color: #2C6BAC">competitive machine learning</a>, <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" style="color: #2C6BAC">natural language processing</a>, <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank" style="color: #2C6BAC">computer vision</a>, and data visualization.</p>
+
 <br>
+<img align="left" alt="University of California, Berkeley" src="ucb.png" width=100 /><img align="left" alt="Columbia University" src="cu.png" width=100/><img align="left" alt="Microsoft" src="msft.png" width=100/>
+<br><br>
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/crisbenge/)

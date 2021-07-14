@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p>I am based in central Indiana, possess an active Top Secret security clearance, and have a borderline-obsession with <a href="https://www.kaggle.com/" target="_blank" style="color: #2C6BAC">competitive machine learning</a>, <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" style="color: #2C6BAC">natural language processing</a>, <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank" style="color: #2C6BAC">computer vision</a>, and data visualization.</p>
 
 <br><br>
-<img align="left" alt="University of California, Berkeley" src="ucb.png" width=100 /><img align="left" alt="Columbia University" src="cu.png" width=100/><img align="left" alt="Microsoft" src="msftlogo.png" width=90/>
+<img align="left" alt="University of California, Berkeley" src="ucb.png" width=90 /><img align="left" alt="Columbia University" src="cu.png" width=100/><img align="left" alt="Microsoft" src="msftlogo.png" width=90/>
 <br><br><br><br><br>
 
 ## Connect with me

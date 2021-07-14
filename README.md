@@ -21,14 +21,12 @@ Here are some ideas to get you started:
 <p>I have over 20 years of experience providing hands-on consultation and leadership in the Healthcare, Defense, and Federal Civilian sectors. I am passionate about data science, machine learning, cloud architecture, and database solution building - with a proven track record leading and delivering successful engagements for some of the largest and most complex data problem areas.</p>
 
 <p>I am based in central Indiana, possess an active Top Secret security clearance, and have a borderline-obsession with <a href="https://www.kaggle.com/" target="_blank" style="color: #2C6BAC">competitive machine learning</a>, <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" style="color: #2C6BAC">natural language processing</a>, <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank" style="color: #2C6BAC">computer vision</a>, and data visualization.</p>
-
-<p>Contact: <code class="language-plaintext highlighter-rouge">firstname + lastname + "@hotmail.com"</code></p>
 <br>
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/crisbenge/)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/cris.benge)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/portfolio-%23ED7D31.svg?&style=for-the-badge&logo=portfolio&logoColor=white" />](https://cbenge509.github.io/)
+[<img align="left" alt="peronal portfolio" src="https://img.shields.io/badge/portfolio-%23ED7D31.svg?&style=for-the-badge&logo=portfolio&logoColor=white" />](https://cbenge509.github.io/)
 <br>
 <br>
 ## Expertise
@@ -38,7 +36,7 @@ Here are some ideas to get you started:
 <img align="left" alt="python" src="https://img.shields.io/badge/python-%23232F3E?logo=python&logoColor=white&style=for-the-badge" />
 <img align="left" alt="R" src="https://img.shields.io/badge/R-%23316192.svg?&style=for-the-badge&logo=R&logoColor=white" />
 <img align="left" alt="visualization" src="https://img.shields.io/badge/visualization-3DDC84?logo=visualization&logoColor=white&style=for-the-badge" />
-<img align="left" alt="SQL" src="https://img.shields.io/badge/SQL%20-%236DB33F.svg?&style=for-the-badge&logo=SQL&logoColor=white" />
-<img align="left" alt="azure" src="https://img.shields.io/badge/azure%20-%236DB33F.svg?&style=for-the-badge&logo=azure&logoColor=white" />
+<img align="left" alt="SQL" src="https://img.shields.io/badge/SQL%20-%238661C5.svg?&style=for-the-badge&logo=SQL&logoColor=white" />
+<img align="left" alt="azure" src="https://img.shields.io/badge/azure%20-%230078D4.svg?&style=for-the-badge&logo=azure&logoColor=white" />
 <br>
 <br>

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hello World 👋
-<p>I am a Principal Data Scientist Manager on the <a href="https://azure.microsoft.com/" target="_blank" style="color: #2C6BAC; font-weight: bold">Azure</a> CHIE team - a division within the Cloud + AI organization - at Microsoft.</p>
+<p>I am a Senior Director of Data Science on the <a href="https://azure.microsoft.com/" target="_blank" style="color: #2C6BAC; font-weight: bold">Azure</a> CHIE team - a division within the Cloud + AI organization - at Microsoft.</p>
 
 <p>I am a graduate of the <a href="https://datascience.berkeley.edu/" target="_blank" style="color: #2C6BAC; font-weight: bold">University of California, Berkeley</a>, where I earned a Master of Information and Data Science. I am also a student at the School of Engineering and Applied Sciences at <a href="https://www.engineering.columbia.edu/departments/computer-science" target="_blank" style="color: #2C6BAC; font-weight: bold">Columbia University in the City of New York</a>, where I'm studying toward a Master of Science in Computer Science with a specialization in Machine Learning (exp 2023).</p>
 

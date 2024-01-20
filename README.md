@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hello World 👋
 
 <br><br>
-<img align="left" alt="University of California, Berkeley" src="ucb.png" width=50 /><img align="left" alt="Columbia University" src="cu.png" width=60/><img align="left" alt="Microsoft" src="msftlogo.png" width=50/>
+<img align="left" alt="University of California, Berkeley" src="ucb.png" width=50 /><img align="left" alt="Columbia University" src="cu.png" width=60/>
 <br><br><br>
 
 ## Connect with me

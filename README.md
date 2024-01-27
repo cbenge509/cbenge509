@@ -13,20 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello World 👋
+## Hello World 👋
 
-<br><br>
-<img align="left" alt="University of California, Berkeley" src="ucb.png" width=50 /><img align="left" alt="Columbia University" src="cu.png" width=60/>
-<br><br><br>
+I am an AI researcher, data scientist, and graduate student.  Please view my portfolio for relevant project work.
+<br>
+<br>
 
-## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/crisbenge/)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/cris.benge)
+
+### More About Me
 [<img align="left" alt="peronal portfolio" src="https://img.shields.io/badge/portfolio-%23ED7D31.svg?&style=for-the-badge&logo=portfolio&logoColor=white" />](https://cbenge509.github.io/)
-[<img align="left" alt="resume" src="https://img.shields.io/badge/resume-%233B2E58.svg?&style=for-the-badge&logo=resume&logoColor=white" />](https://cbenge509.github.io/assets/pdf/Cristopher%20Benge%20CV%20Public%20(2024).pdf)
 <br>
 <br>
-## Expertise
+### Expertise
 
 <img align="left" alt="machine learning" src="https://img.shields.io/badge/machine%20learning%20-%2320232a.svg?&style=for-the-badge&logo=machine-learning&logoColor=%2361DAFB" />
 <img align="left" alt="statistics" src="https://img.shields.io/badge/statistics%20-%2343853D.svg?&style=for-the-badge&logo=statistics&logoColor=white" />

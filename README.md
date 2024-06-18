@@ -33,6 +33,6 @@ I am an AI researcher, data scientist, and graduate student.  Please view my por
 <img align="left" alt="visualization" src="https://img.shields.io/badge/visualization-3DDC84?logo=visualization&logoColor=white&style=for-the-badge" />
 <img align="left" alt="SQL" src="https://img.shields.io/badge/SQL%20-%238661C5.svg?&style=for-the-badge&logo=SQL&logoColor=white" />
 <img align="left" alt="azure" src="https://img.shields.io/badge/azure%20-%230078D4.svg?&style=for-the-badge&logo=azure&logoColor=white" />
-<img align="left" alt="GCP" src="https://img.shields.io/badge/Google-Cloud-blue" size="12"/>
+<img align="left" alt="GCP" src="https://img.shields.io/badge/Google-Cloud-blue" size="14"/>
 <br>
 <br>

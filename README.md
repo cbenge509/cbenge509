@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello World 👋
 
-I am an AI researcher, data scientist, and graduate student.  Please view my portfolio for relevant project work.
+I'm a Googler, a data scientist, AI research, and general fan of all things machine learning.  Please view my portfolio for relevant project work.
 <br>
 <br>
 

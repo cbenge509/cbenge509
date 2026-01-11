@@ -78,6 +78,7 @@ Explore my full portfolio or reach out.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ED7D31?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cbenge509.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/crisbenge)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Kg3sh7QAAAAJ&hl=en)
 
 <br>
 

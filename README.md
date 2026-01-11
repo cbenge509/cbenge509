@@ -1,7 +1,7 @@
 # Cris Benge
 
 <a href="https://cbenge509.github.io/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ED7D31&vCenter=true&multiline=false&width=500&lines=Head+of+Federal+Innovation+%40+Google;ML+Researcher;AI+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ED7D31&vCenter=true&multiline=false&width=500&lines=Head+of+Federal+Innovation+%40+Google;ML+Research;Data+Science;Gen+AI+Development" alt="Typing SVG" />
 </a>
 
 I lead AI innovation initiatives at Google focused on the federal sector, combining research rigor with real-world deployment. My work spans NLP, computer vision, and generative AI—from parameter-efficient architectures to production systems.

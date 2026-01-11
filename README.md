@@ -49,7 +49,7 @@ I lead AI innovation initiatives at Google focused on the federal sector, combin
     <td width="50%">
       <h3 align="center">Facial Keypoints Detection</h3>
       <p align="center">
-        <a href="https://github.com/cbenge509/kaggle_facial_keypoints" target="_blank">
+        <a href="https://github.com/cbenge509/w4732_final_project" target="_blank">
           <img src="https://img.shields.io/badge/View_Repo-ED7D31?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
